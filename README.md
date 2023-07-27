@@ -1,7 +1,7 @@
 - 👋 Hi, I’m steve-hogenboom
 - 👀 I’m interested in Music, Games and Philosophy
-- 🌱 I’m currently learning CS50 as a prerequisite for Game Development
-- 💞️ I’m looking to collaborate on a game once i have finished my courses.
+- 🌱 I’m finished CS50x and working on my end project of CS50P and started CS50AI
+- 💞️ I’m going to create a video game, currently chipping away at the pixel art.
 
 
 <!---
