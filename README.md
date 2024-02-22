@@ -1,7 +1,7 @@
 - 👋 Hi, I’m steve-hogenboom
 - 👀 I’m interested in Music, Games and Philosophy
 - 🌱 I’m finished CS50x and working on my end project of CS50P and started CS50AI
-- 💞️ I’m going to create a video game, currently chipping away at the pixel art.
+- 💞️ I’m working on a video game, currently in prototyping stage
 
 
 <!---
