@@ -1,7 +1,7 @@
-- 👋 Hi, I’m steve-hogenboom
-- 👀 I’m interested in Music, Games and Philosophy
-- 🌱 I’m finished CS50x and working on my end project of CS50P and started CS50AI
-- 💞️ I’m working on a video game, currently in prototyping stage
+I’m Steve the Lead Developer and CEO of the game design company Hack & Hue 
+
+Currently in the process of working on a new video game with a talented artist
+More information will follow.
 
 
 <!---
