@@ -1,6 +1,7 @@
-I’m Steve the Lead Developer and CEO of the game design company Hack & Hue 
+I’m Steve, the Lead Developer and CEO of the game design company Hack & Hue.
 
-Currently in the process of working on a new video game with a talented artist
+Currently in the process of working on a new video game with a talented artist.
+
 More information will follow.
 
 
